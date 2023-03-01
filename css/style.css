@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Tilt+Neon&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+body {
+  font-family: 'Lato', serif;
+  font-size: 20px;
+  margin: 0px;
+  background-color: rgb(220,220,220);
+}
+
+
+h1 {
+  font-family: 'Tilt Neon';
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+}
+
+button {
+  background-color: #37C1BE;
+  padding: 5px 20px;
+  border-radius:5px ;
+  color:white ;
+  font-weight: bold ;
+}
+
+
